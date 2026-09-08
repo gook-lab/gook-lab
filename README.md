@@ -1,5 +1,7 @@
 <div align="center">
 
+**한국어** · [English](./README.en.md)
+
 # 윤성국 | Frontend Engineer
 
 ### 복잡한 제품을 검증 가능한 구조로 바꾸고,
@@ -13,7 +15,7 @@
 
 ---
 
-## About Me
+## 👋 About Me
 
 안녕하세요. React와 TypeScript를 기반으로 웹 제품을 개발하는 6년차 프론트엔드 엔지니어 윤성국입니다.
 
@@ -23,7 +25,7 @@ B2C 웹과 WebView, 운영 Admin, 의료기관 대상 엔터프라이즈 제품�
 
 ---
 
-## What I Do
+## 🧭 What I Do
 
 - **제품 개발**: React·Next.js·TypeScript로 B2C 웹, WebView, 운영 Admin과 B2B 엔터프라이즈 제품을 개발합니다.
 - **상태와 데이터 흐름**: TanStack Query로 서버 상태를 관리하고, Zustand·Redux·Jotai를 제품 규모와 상태의 성격에 맞게 사용합니다.
@@ -36,7 +38,7 @@ B2C 웹과 WebView, 운영 Admin, 의료기관 대상 엔터프라이즈 제품�
 
 ---
 
-## Current Work
+## 🏢 Current Work
 
 ### Sonix Health — B2B Enterprise Web
 
@@ -52,7 +54,7 @@ B2C 웹과 WebView, 운영 Admin, 의료기관 대상 엔터프라이즈 제품�
 
 ---
 
-## Selected Projects
+## 🧸 Selected Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
@@ -67,7 +69,7 @@ B2C 웹과 WebView, 운영 Admin, 의료기관 대상 엔터프라이즈 제품�
 
 ---
 
-## Skills
+## 🛠️ Skills
 
 | Category | Technologies |
 | --- | --- |
@@ -81,7 +83,7 @@ B2C 웹과 WebView, 운영 Admin, 의료기관 대상 엔터프라이즈 제품�
 
 ---
 
-## How I Work
+## 🔍 How I Work
 
 - 변경 전후 결과를 비교할 수 있는 기준을 먼저 정합니다.
 - 장애와 회귀 사례를 테스트로 남겨 다음 변경에서도 같은 문제를 확인합니다.
