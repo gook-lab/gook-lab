@@ -56,19 +56,19 @@ I develop AI-assisted analysis products and operational tools used by healthcare
 <table>
   <tr>
     <td width="33.33%" valign="top">
-      <a href="https://pig-ma.vercel.app"><img src="https://raw.githubusercontent.com/gook-lab/pig-ma/main/docs/screenshots/01-canvas.png" alt="pig-ma infinite canvas" width="100%" /></a>
+      <a href="https://pig-ma.vercel.app"><img src="./assets/projects/pig-ma.png" alt="pig-ma infinite canvas" width="100%" /></a>
       <br /><strong>pig-ma</strong><br />
       <sub>An infinite canvas for shapes, rich text, connectors, and comments</sub><br />
       <a href="https://github.com/gook-lab/pig-ma">Code</a> · <a href="https://pig-ma.vercel.app">Demo</a>
     </td>
     <td width="33.33%" valign="top">
-      <a href="https://saju-blond-six.vercel.app"><img src="https://raw.githubusercontent.com/gook-lab/myeongri-seojae/main/docs/screenshots/01-intro.png" alt="myeongri-seojae intro" width="100%" /></a>
+      <a href="https://saju-blond-six.vercel.app"><img src="./assets/projects/myeongri-seojae.png" alt="myeongri-seojae intro" width="100%" /></a>
       <br /><strong>myeongri-seojae</strong><br />
       <sub>A calm interface for exploring ten-year cycles and yearly changes</sub><br />
       <a href="https://github.com/gook-lab/myeongri-seojae">Code</a> · <a href="https://saju-blond-six.vercel.app">Demo</a>
     </td>
     <td width="33.33%" valign="top">
-      <a href="https://nihan-go-test.netlify.app/"><img src="https://raw.githubusercontent.com/gook-lab/nihongo/main/homepage-with-mascot.png" alt="nihongo learning home" width="100%" /></a>
+      <a href="https://nihan-go-test.netlify.app/"><img src="./assets/projects/nihongo.png" alt="nihongo learning home" width="100%" /></a>
       <br /><strong>nihongo</strong><br />
       <sub>A Japanese-learning PWA combining spaced repetition with an AI tutor</sub><br />
       <a href="https://github.com/gook-lab/nihongo">Code</a> · <a href="https://nihan-go-test.netlify.app/">Demo</a>

@@ -56,19 +56,19 @@ B2C 웹과 WebView, 운영 Admin, 의료기관 대상 엔터프라이즈 제품�
 <table>
   <tr>
     <td width="33.33%" valign="top">
-      <a href="https://pig-ma.vercel.app"><img src="https://raw.githubusercontent.com/gook-lab/pig-ma/main/docs/screenshots/01-canvas.png" alt="pig-ma 무한 캔버스" width="100%" /></a>
+      <a href="https://pig-ma.vercel.app"><img src="./assets/projects/pig-ma.png" alt="pig-ma 무한 캔버스" width="100%" /></a>
       <br /><strong>pig-ma</strong><br />
       <sub>도형·텍스트·커넥터·댓글을 한 화면에서 다루는 무한 캔버스</sub><br />
       <a href="https://github.com/gook-lab/pig-ma">Code</a> · <a href="https://pig-ma.vercel.app">Demo</a>
     </td>
     <td width="33.33%" valign="top">
-      <a href="https://saju-blond-six.vercel.app"><img src="https://raw.githubusercontent.com/gook-lab/myeongri-seojae/main/docs/screenshots/01-intro.png" alt="명리서재 시작 화면" width="100%" /></a>
+      <a href="https://saju-blond-six.vercel.app"><img src="./assets/projects/myeongri-seojae.png" alt="명리서재 시작 화면" width="100%" /></a>
       <br /><strong>myeongri-seojae</strong><br />
       <sub>대운과 시기별 흐름을 차분하게 살펴보는 명리 서비스</sub><br />
       <a href="https://github.com/gook-lab/myeongri-seojae">Code</a> · <a href="https://saju-blond-six.vercel.app">Demo</a>
     </td>
     <td width="33.33%" valign="top">
-      <a href="https://nihan-go-test.netlify.app/"><img src="https://raw.githubusercontent.com/gook-lab/nihongo/main/homepage-with-mascot.png" alt="nihongo 일본어 학습 홈" width="100%" /></a>
+      <a href="https://nihan-go-test.netlify.app/"><img src="./assets/projects/nihongo.png" alt="nihongo 일본어 학습 홈" width="100%" /></a>
       <br /><strong>nihongo</strong><br />
       <sub>간격 반복 학습과 AI 튜터를 결합한 일본어 학습 PWA</sub><br />
       <a href="https://github.com/gook-lab/nihongo">Code</a> · <a href="https://nihan-go-test.netlify.app/">Demo</a>
