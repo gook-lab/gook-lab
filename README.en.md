@@ -53,12 +53,35 @@ I develop AI-assisted analysis products and operational tools used by healthcare
 
 ## 🧸 Selected Projects
 
+<table>
+  <tr>
+    <td width="33.33%" valign="top">
+      <a href="https://pig-ma.vercel.app"><img src="https://raw.githubusercontent.com/gook-lab/pig-ma/main/docs/screenshots/01-canvas.png" alt="pig-ma infinite canvas" width="100%" /></a>
+      <br /><strong>pig-ma</strong><br />
+      <sub>An infinite canvas for shapes, rich text, connectors, and comments</sub><br />
+      <a href="https://github.com/gook-lab/pig-ma">Code</a> · <a href="https://pig-ma.vercel.app">Demo</a>
+    </td>
+    <td width="33.33%" valign="top">
+      <a href="https://saju-blond-six.vercel.app"><img src="https://raw.githubusercontent.com/gook-lab/myeongri-seojae/main/docs/screenshots/01-intro.png" alt="myeongri-seojae intro" width="100%" /></a>
+      <br /><strong>myeongri-seojae</strong><br />
+      <sub>A calm interface for exploring ten-year cycles and yearly changes</sub><br />
+      <a href="https://github.com/gook-lab/myeongri-seojae">Code</a> · <a href="https://saju-blond-six.vercel.app">Demo</a>
+    </td>
+    <td width="33.33%" valign="top">
+      <a href="https://nihan-go-test.netlify.app/"><img src="https://raw.githubusercontent.com/gook-lab/nihongo/main/homepage-with-mascot.png" alt="nihongo learning home" width="100%" /></a>
+      <br /><strong>nihongo</strong><br />
+      <sub>A Japanese-learning PWA combining spaced repetition with an AI tutor</sub><br />
+      <a href="https://github.com/gook-lab/nihongo">Code</a> · <a href="https://nihan-go-test.netlify.app/">Demo</a>
+    </td>
+  </tr>
+</table>
+
 | Project | Description | Stack |
 | --- | --- | --- |
 | [modul](https://github.com/gook-lab/modul) | A headless React component library designed to remain extensible by each product | React · TypeScript · Radix UI · Storybook |
 | [pig-ma](https://github.com/gook-lab/pig-ma) · [Demo](https://pig-ma.vercel.app) | An infinite-canvas library with shapes, rich text, connectors, and comments | React · Konva · Zustand · Tiptap |
-| [myeongri-seojae](https://github.com/gook-lab/myeongri-seojae) | A Korean fortune-analysis service for exploring ten-year cycles and yearly changes | React · TypeScript · Tailwind CSS |
-| [nihongo](https://github.com/gook-lab/nihongo) | A Japanese-learning PWA combining spaced repetition with an AI tutor | React · Firebase · IndexedDB · Gemini |
+| [myeongri-seojae](https://github.com/gook-lab/myeongri-seojae) · [Demo](https://saju-blond-six.vercel.app) | A Korean fortune-analysis service for exploring ten-year cycles and yearly changes | React · TypeScript · Tailwind CSS |
+| [nihongo](https://github.com/gook-lab/nihongo) · [Demo](https://nihan-go-test.netlify.app/) | A Japanese-learning PWA combining spaced repetition with an AI tutor | React · Firebase · IndexedDB · Gemini |
 | [couple-map](https://github.com/gook-lab/couple-map) | A couples PWA for collecting shared places and memories on a map | React · Firebase · Kakao Maps · d3-geo |
 | [dungeon-craft](https://github.com/gook-lab/dungeon-craft) | A turn-based JRPG built with vanilla JavaScript and PixiJS | JavaScript · PixiJS · Vite · Vitest |
 
