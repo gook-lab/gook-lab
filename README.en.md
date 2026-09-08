@@ -19,7 +19,7 @@
 
 Hello, I am Seongguk Yoon, a frontend engineer with six years of experience building web products with React and TypeScript.
 
-I have worked on consumer web services, mobile WebViews, operations dashboards, and enterprise products for healthcare organizations. My experience covers user-facing features as well as the tools teams need to operate their products. I currently develop a medical imaging viewer SDK and the web products built on top of it.
+I have worked on consumer web services, mobile WebViews, operations dashboards, and enterprise products for healthcare organizations. My responsibilities have ranged from login and identity verification to data-driven result screens and operational workflows. I currently develop a medical imaging viewer SDK and the web products built on top of it.
 
 When I change a product, I also define how to verify that its behavior remains correct. I turn production incidents into tests and automation, then document the decisions so the same problem is less likely to return.
 
@@ -27,14 +27,11 @@ When I change a product, I also define how to verify that its behavior remains c
 
 ## 🧭 What I Do
 
-- **Product development**: Build consumer web services, WebViews, operations dashboards, and B2B enterprise products with React, Next.js, and TypeScript.
+- **Product development**: Build consumer web services, WebViews, operations dashboards, and B2B enterprise products with React, Next.js, and TypeScript, including standardized interfaces between WebViews and native apps.
 - **State and data flow**: Manage server state with TanStack Query and choose Zustand, Redux, or Jotai according to the scope and lifetime of client state.
-- **Web–App integration**: Develop social login, identity verification, and public-data integrations while standardizing communication between WebViews and native apps.
-- **Component design**: Turn recurring UI patterns into reusable components and share interaction rules with designers and product managers through Storybook.
+- **Components and libraries**: Turn recurring UI and product capabilities into reusable components and npm packages, then share interaction rules with designers and product managers through Storybook.
 - **Quality automation**: Convert production failures and regressions into Vitest, Testing Library, and Playwright checks connected to CI.
 - **Performance and accessibility**: Measure bundle and rendering costs, optimize loading, fonts, and images, and verify the result with Lighthouse and browser tests.
-- **Library development**: Package shared product capabilities as npm libraries and manage their versions, dependencies, and release notes.
-- **Engineering documentation**: Keep technical documents and decision records in one place so engineers and development agents work from the same references.
 
 ---
 
@@ -44,11 +41,11 @@ When I change a product, I also define how to verify that its behavior remains c
 
 I develop AI-assisted analysis products and operational tools used by healthcare organizations. I helped replace an external viewer dependency with an in-house SDK and now maintain the rendering, decoding, measurement, and package delivery needed by the product.
 
-- Develop product features and operational screens for organization-specific requirements
-- Break down a large frontend by feature and improve TypeScript coverage
-- Design shared authorization, routing, and middleware patterns used across services
-- Build reusable component-test and end-to-end test structures with Vitest, Testing Library, and Playwright
-- Maintain CI checks based on real production incidents and regressions
+- Split a **150K-line product frontend** by feature and expanded TypeScript validation coverage
+- Maintain **10 CI validation steps** based on real production incidents and regressions
+- Designed reusable component-test and Playwright end-to-end structures shared across services
+- Designed shared authorization, routing, and middleware patterns adopted by multiple frontend services
+- Consolidated technical documentation for **17 services and 276 ADRs** into a shared documentation hub
 
 [Ontact Health](https://www.ontacthealth.com/kr/index.php) · [Sonix Health](https://www.sonixhealth.ai/ko)
 
