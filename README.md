@@ -71,10 +71,10 @@ B2C 웹과 WebView, 운영 Admin, 엔터프라이즈 제품을 개발했습니�
       <a href="https://github.com/gook-lab/myeongri-seojae">Code</a> · <a href="https://saju-blond-six.vercel.app">Demo</a>
     </td>
     <td width="33.33%" valign="top">
-      <a href="https://nihan-go-test.netlify.app/"><img src="./assets/projects/nihongo.png" alt="nihongo 일본어 학습 홈" width="100%" /></a>
-      <br /><strong>nihongo</strong><br />
-      <sub>간격 반복 학습과 AI 튜터를 결합한 일본어 학습 PWA</sub><br />
-      <a href="https://github.com/gook-lab/nihongo">Code</a> · <a href="https://nihan-go-test.netlify.app/">Demo</a>
+      <a href="https://github.com/gook-lab/crypt-survivors"><img src="./assets/projects/crypt-survivors.png" alt="Crypt Survivors 타이틀 화면" width="100%" /></a>
+      <br /><strong>Crypt Survivors</strong><br />
+      <sub>게임 시뮬레이션과 PixiJS 렌더링을 분리한 불릿헤븐 로그라이트</sub><br />
+      <a href="https://github.com/gook-lab/crypt-survivors">Code</a>
     </td>
   </tr>
 </table>
@@ -87,6 +87,7 @@ B2C 웹과 WebView, 운영 Admin, 엔터프라이즈 제품을 개발했습니�
 | [nihongo](https://github.com/gook-lab/nihongo) · [Demo](https://nihan-go-test.netlify.app/) | 간격 반복 학습과 AI 튜터를 결합한 일본어 학습 PWA | React · Firebase · IndexedDB · Gemini |
 | [SysPulse](https://github.com/gook-lab/syspulse) | AI 개발 세션과 프로세스의 자원 사용량·입력 대기·워크트리를 함께 살펴보는 macOS 메뉴 막대 앱 | Swift · SwiftUI · AppKit · macOS APIs |
 | [점심 고르기](https://github.com/gook-lab/lunch-app) · [Demo](https://lunch-app-fawn.vercel.app) | 후보 추첨과 게임 연출을 분리해 팀이 함께 점심을 정하는 웹앱 | React · TypeScript · Firebase · Kakao Maps |
+| [Crypt Survivors](https://github.com/gook-lab/crypt-survivors) | 순수 JavaScript 게임 시뮬레이션과 PixiJS 렌더링을 분리한 불릿헤븐 로그라이트 | JavaScript · PixiJS v8 · Vite · Vitest |
 
 더 많은 프로젝트와 구현 과정은 [포트폴리오](https://seonggukyoon-portfolio.vercel.app/)에서 확인할 수 있습니다.
 

@@ -71,10 +71,10 @@ I develop AI-assisted analysis products and operational tools used by healthcare
       <a href="https://github.com/gook-lab/myeongri-seojae">Code</a> · <a href="https://saju-blond-six.vercel.app">Demo</a>
     </td>
     <td width="33.33%" valign="top">
-      <a href="https://nihan-go-test.netlify.app/"><img src="./assets/projects/nihongo.png" alt="nihongo learning home" width="100%" /></a>
-      <br /><strong>nihongo</strong><br />
-      <sub>A Japanese-learning PWA combining spaced repetition with an AI tutor</sub><br />
-      <a href="https://github.com/gook-lab/nihongo">Code</a> · <a href="https://nihan-go-test.netlify.app/">Demo</a>
+      <a href="https://github.com/gook-lab/crypt-survivors"><img src="./assets/projects/crypt-survivors.png" alt="Crypt Survivors title screen" width="100%" /></a>
+      <br /><strong>Crypt Survivors</strong><br />
+      <sub>A bullet-heaven roguelite with rendering-independent game simulation</sub><br />
+      <a href="https://github.com/gook-lab/crypt-survivors">Code</a>
     </td>
   </tr>
 </table>
@@ -87,6 +87,7 @@ I develop AI-assisted analysis products and operational tools used by healthcare
 | [nihongo](https://github.com/gook-lab/nihongo) · [Demo](https://nihan-go-test.netlify.app/) | A Japanese-learning PWA combining spaced repetition with an AI tutor | React · Firebase · IndexedDB · Gemini |
 | [SysPulse](https://github.com/gook-lab/syspulse) | A macOS menu-bar app for viewing AI-session and process resource use, input waits, and worktrees | Swift · SwiftUI · AppKit · macOS APIs |
 | [Lunch Picker](https://github.com/gook-lab/lunch-app) · [Demo](https://lunch-app-fawn.vercel.app) | A team lunch app that separates candidate selection from game presentation | React · TypeScript · Firebase · Kakao Maps |
+| [Crypt Survivors](https://github.com/gook-lab/crypt-survivors) | A bullet-heaven roguelite with a renderer-independent JavaScript simulation and PixiJS rendering | JavaScript · PixiJS v8 · Vite · Vitest |
 
 See my [portfolio](https://seonggukyoon-portfolio.vercel.app/) for more projects and detailed implementation notes.
 
