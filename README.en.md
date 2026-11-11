@@ -88,6 +88,7 @@ I develop AI-assisted analysis products and operational tools used by healthcare
 | [SysPulse](https://github.com/gook-lab/syspulse) | A macOS menu-bar app for viewing AI-session and process resource use, input waits, and worktrees | Swift · SwiftUI · AppKit · macOS APIs |
 | [Lunch Picker](https://github.com/gook-lab/lunch-app) · [Demo](https://lunch-app-fawn.vercel.app) | A team lunch app that separates candidate selection from game presentation | React · TypeScript · Firebase · Kakao Maps |
 | [Crypt Survivors](https://github.com/gook-lab/crypt-survivors) | A bullet-heaven roguelite with a renderer-independent JavaScript simulation and PixiJS rendering | JavaScript · PixiJS v8 · Vite · Vitest |
+| [Voxel Dungeon](https://voxel-dungeon.vercel.app) | A browser game connecting a voxel world with isometric dungeon runs | React · TypeScript · Three.js · React Three Fiber · Zustand |
 
 See my [portfolio](https://seonggukyoon-portfolio.vercel.app/) for more projects and detailed implementation notes.
 
