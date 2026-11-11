@@ -19,7 +19,7 @@
 
 안녕하세요. React와 TypeScript를 기반으로 웹 제품을 개발하는 6년차 프론트엔드 엔지니어 윤성국입니다.
 
-B2C 웹과 WebView, 운영 Admin, 의료기관 대상 엔터프라이즈 제품을 개발했습니다. 로그인·본인인증 같은 사용자 진입 기능부터 데이터 조회·결과 화면, 운영 관리 기능까지 제품의 주요 영역을 담당했습니다. 현재는 의료영상 뷰어 SDK와 이를 활용하는 웹 제품을 만들고 있습니다.
+B2C 웹과 WebView, 운영 Admin, 엔터프라이즈 제품을 개발했습니다. 로그인·본인인증 같은 사용자 진입 기능부터 데이터 조회·결과 화면, 운영 관리 기능까지 제품의 주요 영역을 담당했습니다. 현재는 브라우저 렌더링 SDK와 이를 활용하는 웹 제품을 만들고 있습니다.
 
 코드를 작성할 때는 동작 여부뿐 아니라 변경 전후의 결과를 확인할 수 있는 기준을 함께 만듭니다. 운영 중 발견한 문제는 테스트와 자동화에 반영하고, 해결 과정은 문서로 남겨 재발 가능성을 줄입니다.
 
@@ -82,8 +82,8 @@ B2C 웹과 WebView, 운영 Admin, 의료기관 대상 엔터프라이즈 제품�
 | [pig-ma](https://github.com/gook-lab/pig-ma) · [Demo](https://pig-ma.vercel.app) | 도형·리치 텍스트·커넥터·댓글을 지원하는 무한 캔버스 라이브러리 | React · Konva · Zustand · Tiptap |
 | [myeongri-seojae](https://github.com/gook-lab/myeongri-seojae) · [Demo](https://saju-blond-six.vercel.app) | 대운과 시기별 흐름을 살펴보는 명리 서비스 | React · TypeScript · Tailwind CSS |
 | [nihongo](https://github.com/gook-lab/nihongo) · [Demo](https://nihan-go-test.netlify.app/) | 간격 반복 학습과 AI 튜터를 결합한 일본어 학습 PWA | React · Firebase · IndexedDB · Gemini |
-| [couple-map](https://github.com/gook-lab/couple-map) | 함께 다닌 장소와 기록을 지도에 쌓는 커플 PWA | React · Firebase · Kakao Maps · d3-geo |
-| [dungeon-craft](https://github.com/gook-lab/dungeon-craft) | 순수 JavaScript와 PixiJS로 만든 턴제 JRPG | JavaScript · PixiJS · Vite · Vitest |
+| [SysPulse](https://github.com/gook-lab/syspulse) | AI 개발 세션과 프로세스의 자원 사용량·입력 대기·워크트리를 함께 살펴보는 macOS 메뉴 막대 앱 | Swift · SwiftUI · AppKit · macOS APIs |
+| [점심 고르기](https://github.com/gook-lab/lunch-app) · [Demo](https://lunch-app-fawn.vercel.app) | 후보 추첨과 게임 연출을 분리해 팀이 함께 점심을 정하는 웹앱 | React · TypeScript · Firebase · Kakao Maps |
 
 더 많은 프로젝트와 구현 과정은 [포트폴리오](https://seonggukyoon-portfolio.vercel.app/)에서 확인할 수 있습니다.
 

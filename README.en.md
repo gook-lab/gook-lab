@@ -19,7 +19,7 @@
 
 Hello, I am Seongguk Yoon, a frontend engineer with six years of experience building web products with React and TypeScript.
 
-I have worked on consumer web services, mobile WebViews, operations dashboards, and enterprise products for healthcare organizations. My responsibilities have ranged from login and identity verification to data-driven result screens and operational workflows. I currently develop a medical imaging viewer SDK and the web products built on top of it.
+I have worked on consumer web services, mobile WebViews, operations dashboards, and enterprise products. My responsibilities have ranged from login and identity verification to data-driven result screens and operational workflows. I currently develop a browser-rendering SDK and the web products built on top of it.
 
 When I change a product, I also define how to verify that its behavior remains correct. I turn production incidents into tests and automation, then document the decisions so the same problem is less likely to return.
 
@@ -82,8 +82,8 @@ I develop AI-assisted analysis products and operational tools used by healthcare
 | [pig-ma](https://github.com/gook-lab/pig-ma) · [Demo](https://pig-ma.vercel.app) | An infinite-canvas library with shapes, rich text, connectors, and comments | React · Konva · Zustand · Tiptap |
 | [myeongri-seojae](https://github.com/gook-lab/myeongri-seojae) · [Demo](https://saju-blond-six.vercel.app) | A Korean fortune-analysis service for exploring ten-year cycles and yearly changes | React · TypeScript · Tailwind CSS |
 | [nihongo](https://github.com/gook-lab/nihongo) · [Demo](https://nihan-go-test.netlify.app/) | A Japanese-learning PWA combining spaced repetition with an AI tutor | React · Firebase · IndexedDB · Gemini |
-| [couple-map](https://github.com/gook-lab/couple-map) | A couples PWA for collecting shared places and memories on a map | React · Firebase · Kakao Maps · d3-geo |
-| [dungeon-craft](https://github.com/gook-lab/dungeon-craft) | A turn-based JRPG built with vanilla JavaScript and PixiJS | JavaScript · PixiJS · Vite · Vitest |
+| [SysPulse](https://github.com/gook-lab/syspulse) | A macOS menu-bar app for viewing AI-session and process resource use, input waits, and worktrees | Swift · SwiftUI · AppKit · macOS APIs |
+| [Lunch Picker](https://github.com/gook-lab/lunch-app) · [Demo](https://lunch-app-fawn.vercel.app) | A team lunch app that separates candidate selection from game presentation | React · TypeScript · Firebase · Kakao Maps |
 
 See my [portfolio](https://seonggukyoon-portfolio.vercel.app/) for more projects and detailed implementation notes.
 
