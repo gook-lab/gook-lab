@@ -4,6 +4,9 @@
 
 # Seongguk Yoon | Frontend Engineer
 
+### FEYS-LAB
+<sub>Frontend · Yoon Seongguk Lab</sub>
+
 ### I turn complex products into verifiable systems
 ### and leave solutions the whole team can reuse.
 

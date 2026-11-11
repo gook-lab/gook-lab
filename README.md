@@ -4,6 +4,9 @@
 
 # 윤성국 | Frontend Engineer
 
+### FEYS-LAB
+<sub>Frontend · Yoon Seongguk Lab</sub>
+
 ### 복잡한 제품을 검증 가능한 구조로 바꾸고,
 ### 해결 과정을 팀이 다시 사용할 수 있는 자산으로 남깁니다.
 
